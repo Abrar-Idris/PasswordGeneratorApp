@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="password">1a4Txe3m*%Qm^vdXs!</string>
+    <string name="copy_password"> COPY PASSWORD_</string>
+    <string name="passwordLength">Password Length :</string>
+    <string name="uppercase">Uppercase</string>
+    <string name="app_name">Password Generator</string>
+    <string name="lowercase">Lowercase</string>
+    <string name="numbers">Number</string>
+    <string name="Symbols">Symbols</string>
+    <string name="password_generator">Password\nGenerator</string>
+    <string name="enter_length">Enter Length</string>
+    <string name="generate">GENERATE PASSWORD</string>
+</resources>

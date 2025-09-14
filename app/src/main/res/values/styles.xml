@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTitleText">
+        <item name="android:textSize">122sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#FFFF00</item> <!-- Yellow -->
+        <item name="android:fontFamily">sans-serif-medium</item>
+
+        <item name="android:letterSpacing">0.3</item> <!-- Spacing between letters -->
+    </style>
+
+</resources>
